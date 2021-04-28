@@ -1,0 +1,29 @@
+i.icon-black {
+    color: rgb(0, 0, 0);
+}
+
+i.icon-golden {
+    color: rgb(245, 131, 24);
+}
+
+
+.small-font {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.medium-font {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.large-font {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+}
